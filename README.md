@@ -1,4 +1,4 @@
-# vLLM Offline Study Guide (10 days, ~1 hour/day)
+# vLLM Offline Study Guide
 
 A self-contained study guide to the vLLM codebase `/https://github.com/vllm-project/vllm.git`
 
