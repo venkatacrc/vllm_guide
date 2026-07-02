@@ -1,10 +1,6 @@
 # vLLM Offline Study Guide (10 days, ~1 hour/day)
 
-A self-contained study guide to the vLLM codebase, written to disk so that a
-reader with no internet access can learn the whole system by opening only
-files in this repo. Nothing here depends on external links; every reference is
-either to a file inside `/Users/v0c03vo/code/vllm` (with line numbers) or to
-another file in `STUDY_GUIDE/`.
+A self-contained study guide to the vLLM codebase `/https://github.com/vllm-project/vllm.git`
 
 Written from source-code exploration and the existing `docs/` tree as of the
 tip of the current working checkout. Where the codebase was ambiguous, the
@@ -16,10 +12,6 @@ day files flag it as **"open question"** rather than guessing.
 
 - **One day at a time.** Each `dayNN.md` is designed for a **single 45–60 minute
   session**. Read start to finish, then do the exercise at the bottom.
-- **Have your editor open** in `/Users/v0c03vo/code/vllm` while you read. Every
-  reference is `path/to/file.py:LINE_NUMBER`. Jump to those lines and confirm
-  the day file's claims with your own eyes — this is the highest-leverage
-  study technique.
 - **Read in order.** Later days assume earlier days. Day 10 in particular is
   a synthesis that cross-links to all previous days.
 - **Skip the exercises at your peril.** They're not filler; they force you to
